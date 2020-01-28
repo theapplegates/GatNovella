@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://priceless-liskov-680ea6.netlify.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Living Life`,
+    name: `Paul`,
+    siteUrl: `https://master.d1qjz0nsdgpkx6.amplifyapp.com/`,
+    description: `Living life and writing some things down alone the way`,
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
       maxWidth: 652,
@@ -11,15 +11,15 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/papplegate`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/theapplegates`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/mrapplegate`,
       },
       {
         name: `linkedin`,
@@ -59,7 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-118232427-3",
+        trackingId: "UA-147090349-5",
       },
     },
   ],
