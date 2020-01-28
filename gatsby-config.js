@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Novela by Narative`,
     name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://priceless-liskov-680ea6.netlify.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
